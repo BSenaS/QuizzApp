@@ -10,4 +10,6 @@
 #Architecture
 
 - MVC
-![quizappGif](https://user-images.githubusercontent.com/104423646/185638100-32f74343-8a2f-48b8-aa26-15d0cde72733.gif)
+
+
+- ![quizappGif](https://user-images.githubusercontent.com/104423646/185638100-32f74343-8a2f-48b8-aa26-15d0cde72733.gif)
